@@ -14,7 +14,7 @@ This portfolio website was developed to showcase the personal and professional p
   
 ##  Screenshots
 
-## Homepage <img width="1495" height="934" alt="Screenshot 1447-01-19 at 10 52 34 AM" src="https://github.com/user-attachments/assets/c88a036d-fe18-4bf5-8b27-9256df12bdb5" />
+## Homepage <img width="1495" height="934" alt="Screenshot 1447-01-19 at 10 52 34 AM" src="https://github.com/user-attachments/assets/dd5a8e44-06c8-42f1-bdfa-831d79bf367f" />
 
 ## About Me - My Skills <img width="1474" height="850" alt="Screenshot 1447-01-19 at 10 59 09 AM" src="https://github.com/user-attachments/assets/ec01f87e-6fa9-41fc-ba09-bd3652f3030d" />
 
