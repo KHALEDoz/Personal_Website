@@ -23,14 +23,14 @@ This portfolio website was developed to showcase the personal and professional p
 ## Get In Touch <img width="1469" height="844" alt="Screenshot 1447-01-19 at 11 08 22 AM" src="https://github.com/user-attachments/assets/d8029c1f-d53b-43c5-8e24-10c442ccda1f" />
 
 
-#### 4. 📁 Project Structure 
+
 ##  Project Structure
 
 - `index.html` – Main HTML file
 - `style.css` – Internal CSS (included in head)
 - `script.js` – JS logic for animations, scroll behavior, and contact form
 
-## 🛠️ Built With
+##  Built With
 
 - HTML5
 - CSS3 (with animations & media queries)
